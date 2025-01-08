@@ -127,4 +127,5 @@ Overall, the League client’s redesign from 2016 to 2024 offers both aesthetic 
 
 ---
 
+## Contact
 Contact & Social Links: LinkedIn: https://www.linkedin.com/in/ng-say-khong/ Email: ngsaykhong@gmail.com
